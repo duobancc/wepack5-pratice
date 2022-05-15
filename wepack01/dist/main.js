@@ -1,0 +1,1 @@
+(()=>{var r={640:r=>{r.exports={sum:function(r,o){return r+o}}}},o={};function t(e){var n=o[e];if(void 0!==n)return n.exports;var s=o[e]={exports:{}};return r[e](s,s.exports,t),s.exports}(()=>{const{sum:r}=t(640),o=r(8,9);console.log(o)})()})();
